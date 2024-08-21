@@ -1,4 +1,3 @@
-from itertools import combinations
 def starter(x) -> str:
     word = ''
     for i in range(x):
